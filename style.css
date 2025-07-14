@@ -200,12 +200,12 @@ footer{
   padding: 100px;
   margin-bottom: 50px;
 }
-footer h2{
+footer .p1{
   color: #1F1F1F;
   font-family: poppins;
   font-weight: 600;
   font-size: 26px;
-  
+  margin-bottom: 0;
 }
 footer p{
   color: #707070;
